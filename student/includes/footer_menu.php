@@ -25,7 +25,7 @@
 	                    </ul>
 	                </nav>
 	                <p class="copyright pull-right">
-	                    &copy; <script>document.write(new Date().getFullYear())</script> <a href="http://www.creative-tim.com">Ingenious Team</a>, made with love for a better web
+	                    &copy; <script>document.write(new Date().getFullYear())</script> <a href="#">Ingenious Team</a>, made with love for a better web
 	                </p>
 	            </div>
 	        </footer>
